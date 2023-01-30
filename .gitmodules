@@ -1,0 +1,3 @@
+[submodule "englist"]
+	path = englist
+	url = https://github.com/make-notes/englist
