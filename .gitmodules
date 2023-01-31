@@ -1,3 +1,6 @@
 [submodule "englist"]
 	path = englist
 	url = https://github.com/make-notes/englist
+[submodule "server"]
+	path = server
+	url = https://github.com/make-notes/server.git
