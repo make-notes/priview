@@ -1,6 +1,6 @@
 ## 英语相关
 
-- [原力英语](./englist/README.md)
+- [英语](./englist/README.md)
 
 ## IT 相关
 
